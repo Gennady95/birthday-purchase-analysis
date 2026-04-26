@@ -1,13 +1,8 @@
 # Посетитли СТО в дни рождения
 Потребовалось определить сколько клиентов совершают покупки в СТО в дни рождения и +7 дней после него. Отчёт предоставит информацию о совершённых заказ-нарядах за 5 лет и позволят таргетировать аудиторию по этому признаку
 
-**Birthday Purchase Analysis (STO)**
-Description
-
-This project analyzes customer behavior in service centers by identifying how many clients make purchases on their birthday and within 7 days after.
-The analysis is based on 5 years of historical service order data and is intended to support marketing decisions and improve customer targeting strategies.
-
 Business Goal
+
 The main objective is to determine whether birthdays can be used as an effective trigger for customer engagement and promotional campaigns.
 
 Features
@@ -28,11 +23,10 @@ Connects to a SQL database and loads customer and order data
 Cleans and standardizes phone numbers
 Aggregates customer visits
 Matches visits with customer birthdays
-Calculates metrics:
+Calculates key metrics:
 Visits on birthday
 Visits within 7 days after birthday
 Sends a Telegram notification after execution
-
 Example / Demo
 Input
 Customer database (5 years of history)
@@ -46,6 +40,7 @@ Aggregated dataset for further analysis
 Use Case
 
 This project can be used by:
+
 Marketing teams for targeted campaigns
 CRM analysts
 Data analysts working with customer lifecycle data

@@ -33,9 +33,6 @@ Visits on birthday
 Visits within 7 days after birthday
 Sends a Telegram notification after execution
 
-3. Run the script
-python birthday_purchase_analysis.py
-
 Example / Demo
 Input
 Customer database (5 years of history)

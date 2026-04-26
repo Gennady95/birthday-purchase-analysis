@@ -4,7 +4,7 @@
 **Birthday Purchase Analysis (STO)**
 Description
 
-This project analyzes customer behavior in service centers (STO) by identifying how many clients make purchases on their birthday and within 7 days after.
+This project analyzes customer behavior in service centers by identifying how many clients make purchases on their birthday and within 7 days after.
 The analysis is based on 5 years of historical service order data and is intended to support marketing decisions and improve customer targeting strategies.
 
 Business Goal
